@@ -7,7 +7,7 @@ STUDENT ID = "137421"
 
 ## Project description
 
-This project is a portfolio submission for the IDATT2003 course at NTNU. It involves creating a system for managing board games and players using Java. The system incorporates object-oriented design principles.
+This project is a portfolio submission for the IDATT2003 course at NTNU. It involves creating a system for managing board games and players using Java. The system incorporates object-oriented design principles. It was programed in pairs.
 
 ## Link to repository
 
